@@ -31,5 +31,13 @@ This capstone project explores the optimal allocation of a hypothetical union bu
 
 ## License
 This project is licensed under the **MIT License**.
+## License
+This project is licensed under the MIT License.
+Copyright [2025] [P.Sai Nikhitha Reddy]
+
+This project is licensed under a Proprietary License.  
+- You may not modify, distribute, or use this project commercially without written permission from the author.  
+- Any unauthorized modification or redistribution is strictly prohibited.  
+
 
 
